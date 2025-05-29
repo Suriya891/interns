@@ -1,0 +1,19 @@
+1. Use the given page design for the development
+2. Do not use any external components or controls. Use only the given theme to change the page design if needed.
+3. Application should not have any inline queries. All transactions should take place through either the PostgreSQL functions or StoredProcedures.
+4. Create a DB, Use the given table script to create a table. Only main table has been given.
+5. Assignment should have been completed in such a way that it should have complete functionality i.e. list, save, update and retrieve.
+6. Where table has ID column like branchid, locationid etc. have a json data file appropriately and store that id in DB
+7. The given table component to be used to list the saved entity records, where it has view and edit functional buttons.
+8. On menu click, load the table list component with saved records.
+
+
+
+
+
+
+Tech stack:
+
+Frontend: React Js
+Backend: Node Js
+DB: PostgreSQL
