@@ -1,0 +1,47 @@
+{
+  "branches": [
+    { "name": "Aadyar" },
+    { "name": "Anna Nagar" },
+    { "name": "Guindy" }
+  ],
+  "levels": [
+    { "name": "Beginner" },
+    { "name": "Intermediate" },
+    { "name": "Advanced" }
+  ],
+  "classTypes": [
+    { "name": "Online" },
+    { "name": "Offline" },
+    { "name": "Hybrid" }
+  ],
+  "scheduleTypes": [
+    { "name": "Weekly" },
+    { "name": "Bi-weekly" },
+    { "name": "Weekend Only" }
+  ],
+  "instructors": [
+    { "name": "Alice Johnson" },
+    { "name": "Bob Smith" },
+    { "name": "Carol Lee" }
+  ],
+  "locations": [
+    { "name": "Room 101" },
+    { "name": "Room 202" },
+    { "name": "Auditorium" }
+  ],
+  "resources": [
+    { "name": "Projector" },
+    { "name": "Whiteboard" },
+    { "name": "Lab Equipment" }
+  ],
+  "cancellationPolicies": [
+    { "name": "Flexible" },
+    { "name": "Moderate" },
+    { "name": "Strict" }
+  ],
+  "timeSlots": [
+    { "name": "8:00 AM - 10:00 AM" },
+    { "name": "10:30 AM - 12:30 PM" },
+    { "name": "2:00 PM - 4:00PM"}
+]
+}
